@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**marcusvn27/marcusvn27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="assets/github_banner_marcus_vinicius_costa.gif" width="100%">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Conheça mais sobre mim 👨🏼‍💻
+
+Olá! Sou Marcus Vinícius Costa, tenho 18 anos e sou de Salvador na Bahia. Gosto demais da área tech e busco cada dia me especializar e qualificar um pouco mais. Sou fascinado também por pesquisa cientifica e olímpiadas. 
+
+#### 
+
+
+
+
