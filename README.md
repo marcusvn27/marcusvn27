@@ -4,11 +4,14 @@
   <img src="assets/github_banner_marcus_vinicius_costa.gif" width="100%">
 </p>
 
-### Conheça mais sobre mim 👨🏼‍💻
+### 👨🏼‍💻 Sobre mim 
 
-Olá! Sou Marcus Vinícius Costa, tenho 18 anos e sou de Salvador na Bahia. Gosto demais da área tech e busco cada dia me especializar e qualificar um pouco mais. Sou fascinado também por pesquisa cientifica e olímpiadas. 
+•&nbsp; Estou cursando Engenharia da Computação no SENAI CIMATEC. 🏫\
+•&nbsp; Gosto demais da área tech e busco cada dia me especializar e qualificar mais. 🖥️\
+•&nbsp;  Sou fascinado também por pesquisa cientifica e olímpiadas de vários temas. 🏅\
+•&nbsp; Faço parte da Empresa Júnior do SENAI CIMATEC, a CIMATEC jr. no setor de computação. 🚀
 
-#### 
+
 
 
 
